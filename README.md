@@ -1,4 +1,4 @@
-<img width="273" height="57" alt="image" src="https://github.com/user-attachments/assets/f11433a2-b2d4-4e7a-850e-40ce5578d3b7" /><h1 align="center">Hi 👋, I'm Lakshmana Sarathy</h1>
+<h1 align="center">Hi 👋, I'm Lakshmana Sarathy</h1>
 <h3 align="center">Aspiring Software Developer | Java | Spring Boot</h3>
 
 <p align="center">
