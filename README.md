@@ -49,7 +49,7 @@ I specialize in both frontend and backend development with spring boot, REST API
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 I'm open to discuss new opportunities. Feel free to get in touch.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmana-sarathy8/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshmanasarathy8@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?logo=google-chrome&logoColor=white)](https://lakshmanasarathy.github.io/portfolio/) 
