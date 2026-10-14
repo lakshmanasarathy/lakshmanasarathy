@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a Bachelor of Computer Applications graduate (2025) passionate about building secure, scalable, and reliable web applications.
+I’m a Bachelor of Computer Applications graduate passionate about building secure, scalable, and reliable web applications.
 I specialize in both frontend and backend development with spring boot, REST APIs, and MySQL, with a strong interest in solving real-world problems through code.
 
 ---
