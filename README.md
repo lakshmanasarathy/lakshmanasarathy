@@ -38,14 +38,19 @@ I specialize in both frontend and backend development with spring boot, REST API
 ## 📌 Featured Projects
 
 ### 📊 Rekart
-- Web-based project focused on UI and functionality
-- Implemented JWT authentication, OTP verification, and payment integration
-- Developed role-based access control for Customer and Admin functionalities
+- Built an e-commerce application using Java, Spring Boot, HTML, CSS, JavaScript and MySQL with REST APIs.
+- Implemented JWT authentication, role-based access, OTP email verification and Razorpay payments for product, cart, and order management.
+- Developed role-based access control for Customer and Admin functionalities 
   
-### 🗂️ Learning Lab
-- Built using Spring Boot, Java, HTML, CSS, JavaScript, MySQL, and REST APIs
-- Implemented JWT-based authentication, role-based access control, and secure user management
-- Integrated course enrollment, payment processing, and CRUD operations
+### 🗂️ Campusly
+- Built using Spring Boot, Java, HTML, CSS, JavaScript, MySQL, REST APIs and Docker.
+- Integrated course enrollment, payment processing, and CRUD operations.
+- Implemented JWT authentication, role-based access, OTP email verification and Razorpay payments for buy and sell book.
+
+### 🗂️ Openchat-AI
+- Developed an AI chat application using Java, Spring Boot, HTML, CSS, JavaScript and MySQL.
+- Implemented JWT authentication, Razorpay payments and OTP email verification.
+- Designed a microservices architecture and used Docker for containerization.
 
 ---
 
