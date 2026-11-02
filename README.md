@@ -18,7 +18,7 @@ I specialize in both frontend and backend development with spring boot, REST API
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
 ### 🌐 Frontend
@@ -31,6 +31,7 @@ I specialize in both frontend and backend development with spring boot, REST API
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
